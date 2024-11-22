@@ -1,4 +1,4 @@
-*DevOps School*
+## DevOps School
 
 Completing tasks
 
