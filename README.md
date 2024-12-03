@@ -1,6 +1,6 @@
 ## DevOps School
 
-Completing tasks
+Completed tasks
 
 dz_1  
 dz_2  
