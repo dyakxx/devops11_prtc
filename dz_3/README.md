@@ -6,3 +6,5 @@ JAR, WAR файлы. WAR артефакты запустить в контейн
 сервлетов Apache Tomcat.
 
 ### Вариант решения:
+
+Проект https://github.com/jabedhasan21/java-hello-world-with-maven.git
