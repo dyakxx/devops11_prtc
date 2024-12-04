@@ -34,3 +34,6 @@ scp -r /home/hostkey/dz2 185.70.185.51:/tmp/
 
 ssh 185.70.185.51 'find /tmp/dz2 -type f -mtime +7 -delete'
 ~~~
+
+![screenshot1](img/screenshot1.jpg)
+![screenshot2](img/screenshot2.jpg)
