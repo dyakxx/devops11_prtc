@@ -9,8 +9,9 @@ JAR, WAR файлы. WAR артефакты запустить в контейн
 
 Проект  
 https://github.com/jabedhasan21/java-hello-world-with-maven.git  
-для получения артифактов сборки JAR/WAR.  
-WAR'ник получен путем сборки в ide IntelliJIDEA.
+для получения артифактов сборки **JAR/WAR**.  
+**WAR**'ник получен путем сборки в ide **IntelliJIDEA**.
  
 Результат консольного вывода 
+
 ![ff](img/screen2.png)
