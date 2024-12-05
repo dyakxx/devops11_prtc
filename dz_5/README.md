@@ -5,4 +5,4 @@
 репозиторием.
 
 ### Вариант решения:
-Ну, ок
+Ну, ок. Visual Studio Code + IntelliJ IDEA
